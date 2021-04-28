@@ -1,0 +1,8 @@
+{
+    
+    "mongoURI":"mongodb+srv://Sparsh2212:Sparsh2gupta@devconnector.izhkp.mongodb.net/test?retryWrites=true",
+    "jwtSecret":"mysecrettoken",
+    "githubClientId":"2a6da2694d079ffbe8f4",
+    "githubSecret":"d08bf14bf60fd6a8fbec7c20d5bfdd2250b89175"
+
+}
